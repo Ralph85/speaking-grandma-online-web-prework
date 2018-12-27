@@ -1,7 +1,7 @@
 if "I love you Grandma"
 elsif "HUH? SPEAK UP, SONNY!"
 
-elsif "I LOVE YOU GRANDMA!"
+elsif "HI!"
 
 elsif "NOT SINCE 1938!"
 
