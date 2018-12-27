@@ -2,9 +2,8 @@ if "I love you Grandma"
 elsif "HUH? SPEAK UP, SONNY!"
 
 elsif "I LOVE YOU GRANDMA!"
-# unless you shout it (type in all capitals).
 
-# If you shout, she can hear you (or at least she thinks so)
+elsif "NOT SINCE 1938!"
 # and yells back
 
 # NO, NOT SINCE 1938!
