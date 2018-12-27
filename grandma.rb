@@ -1,7 +1,7 @@
 if "I love you Grandma"
+elsif "HUH? SPEAK UP, SONNY!"
 
-# Whatever you say to grandma, she should respond with
-# HUH?! SPEAK UP, SONNY!
+elsif "I LOVE YOU GRANDMA!"
 # unless you shout it (type in all capitals).
 
 # If you shout, she can hear you (or at least she thinks so)
